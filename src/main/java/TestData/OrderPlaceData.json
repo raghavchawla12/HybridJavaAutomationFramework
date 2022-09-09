@@ -1,0 +1,9 @@
+[
+  {
+    "email":"testRestAssured@yopmail.com",
+    "password": "Test1234",
+    "cvv": "123",
+    "cardHolderName": "Test Card",
+    "countryName": "British Indian Ocean Territory"
+  }
+]

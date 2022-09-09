@@ -1,0 +1,52 @@
+20:04:37.208 [main] INFO  hybridTest.HybridEComTest - 631b4ef6c4d0c51f4f1b8fed deleted
+20:05:34.414 [main] INFO  hybridTest.HybridEComTest - 631b4f33c4d0c51f4f1b9022 deleted
+20:07:09.702 [main] INFO  hybridTest.HybridEComTest - 631b4f92c4d0c51f4f1b907a deleted
+20:08:15.286 [main] INFO  hybridTest.HybridEComTest - 631b4fd0c4d0c51f4f1b90dc deleted
+20:11:44.360 [main] INFO  hybridTest.HybridEComTest - 631b50a1c4d0c51f4f1b91a8 deleted
+20:13:57.261 [main] INFO  hybridTest.HybridEComTest - 631b5102c4d0c51f4f1b9283 deleted
+20:14:44.650 [main] INFO  hybridTest.HybridEComTest - 631b5155c4d0c51f4f1b92ea deleted
+20:15:51.962 [main] INFO  hybridTest.HybridEComTest - 631b5199c4d0c51f4f1b9351 deleted
+20:16:51.106 [main] INFO  hybridTest.HybridEComTest - 631b51d4c4d0c51f4f1b9391 deleted
+20:20:01.421 [main] INFO  hybridTest.HybridEComTest - 631b5292c4d0c51f4f1b94d4 deleted
+20:23:42.932 [main] INFO  hybridTest.HybridEComTest - 631b536fc4d0c51f4f1b955d deleted
+20:24:39.967 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+20:24:40.456 [main] INFO  hybridTest.HybridEComTest - 631b53a9c4d0c51f4f1b95e3 deleted
+21:45:22.124 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+21:45:22.670 [main] INFO  hybridTest.HybridEComTest - 631b6693c4d0c51f4f1ba38d deleted
+21:48:24.839 [main] INFO  hybridTest.HybridEComTest - 631b6748c4d0c51f4f1ba445 deleted
+21:51:44.854 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+21:51:45.272 [main] INFO  hybridTest.HybridEComTest - 631b6811c4d0c51f4f1ba4aa deleted
+21:58:35.703 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+21:58:36.222 [main] INFO  hybridTest.HybridEComTest - 631b69adc4d0c51f4f1ba68c deleted
+22:01:03.505 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+22:01:03.957 [main] INFO  hybridTest.HybridEComTest - 631b6a41c4d0c51f4f1ba6fa deleted
+22:07:28.535 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:07:30.895 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from API is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:07:30.899 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI and API are same
+22:07:34.077 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Logged in with testRestAssured@yopmail.com and Test1234
+22:07:34.101 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login Successful through UI
+22:07:34.344 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login successful through API
+22:07:44.378 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Order successfully placed
+22:07:44.718 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - 631b6bd1c4d0c51f4f1ba883 deleted
+22:09:35.084 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:09:37.301 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from API is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:09:37.303 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI and API are same
+22:09:40.512 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Logged in with testRestAssured@yopmail.com and Test1234
+22:09:40.537 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login Successful through UI
+22:09:40.779 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login successful through API
+22:09:50.168 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Order successfully placed
+22:09:50.606 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - 631b6c4fc4d0c51f4f1ba925 deleted
+22:10:58.325 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:11:00.412 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from API is [ZARA COAT 3, ADIDAS ORIGINAL, IPHONE 13 PRO]
+22:11:00.415 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Product List from UI and API are same
+22:11:03.483 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Logged in with testRestAssured@yopmail.com and Test1234
+22:11:03.505 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login Successful through UI
+22:11:03.681 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Login successful through API
+22:11:12.773 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - Order successfully placed
+22:11:13.121 [TestNG-tests-1] INFO  hybridTest.HybridEComTest - 631b6ca1c4d0c51f4f1ba99d deleted
+22:12:30.412 [main] INFO  hybridTest.HybridEComTest - 631b6cf4c4d0c51f4f1baa51 deleted
+22:12:34.370 [main] INFO  hybridTest.HybridEComTest - 631b6cf8c4d0c51f4f1baa64 deleted
+22:28:12.554 [main] INFO  hybridTest.HybridEComTest - 631b70a1c4d0c51f4f1badfd deleted
+22:28:17.718 [main] INFO  hybridTest.HybridEComTest - 631b70a6c4d0c51f4f1bae10 deleted
+22:29:33.504 [main] INFO  hybridTest.HybridEComTest - Order successfully placed
+22:29:33.950 [main] INFO  hybridTest.HybridEComTest - 631b70eec4d0c51f4f1bae76 deleted

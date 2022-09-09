@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-09T22:09:30 IST" name="Suite" finished-at="2022-09-09T22:09:50 IST" duration-ms="20374">
+    <groups>
+      <group name="DeleteCourseAPIExecute">
+        <method signature="HybridEComTest.verify_that_user_is_able_to_place_order_with_new_created_product(java.util.HashMap)[pri:0, instance:hybridTest.HybridEComTest@bcec031]" name="verify_that_user_is_able_to_place_order_with_new_created_product" class="hybridTest.HybridEComTest"/>
+      </group> <!-- DeleteCourseAPIExecute -->
+    </groups>
+    <test started-at="2022-09-09T22:09:30 IST" name="BlazeDemoWebSiteTest" finished-at="2022-09-09T22:09:50 IST" duration-ms="20374">
+      <class name="hybridTest.HybridEComTest">
+        <test-method is-config="true" signature="initializeDriverAndBrowser()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:30 IST" name="initializeDriverAndBrowser" finished-at="2022-09-09T22:09:34 IST" duration-ms="3721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriverAndBrowser -->
+        <test-method signature="verify_that_get_all_products_names_are_equals_and_name_matches_with_api_response(java.util.HashMap)[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:34 IST" name="verify_that_get_all_products_names_are_equals_and_name_matches_with_api_response" data-provider="getLoginData" finished-at="2022-09-09T22:09:37 IST" duration-ms="3003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test1234, email=testRestAssured@yopmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_that_get_all_products_names_are_equals_and_name_matches_with_api_response -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:37 IST" name="tearDown" finished-at="2022-09-09T22:09:37 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeDriverAndBrowser()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:37 IST" name="initializeDriverAndBrowser" finished-at="2022-09-09T22:09:39 IST" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriverAndBrowser -->
+        <test-method signature="verify_that_user_is_able_to_login_to_application_through_api_and_ui(java.util.HashMap)[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:39 IST" name="verify_that_user_is_able_to_login_to_application_through_api_and_ui" data-provider="getLoginData" finished-at="2022-09-09T22:09:40 IST" duration-ms="960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test1234, email=testRestAssured@yopmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_that_user_is_able_to_login_to_application_through_api_and_ui -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:40 IST" name="tearDown" finished-at="2022-09-09T22:09:40 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeDriverAndBrowser()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:40 IST" name="initializeDriverAndBrowser" finished-at="2022-09-09T22:09:43 IST" duration-ms="2299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriverAndBrowser -->
+        <test-method signature="verify_that_user_is_able_to_place_order_with_new_created_product(java.util.HashMap)[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:43 IST" name="verify_that_user_is_able_to_place_order_with_new_created_product" data-provider="getOrderPlaceData" finished-at="2022-09-09T22:09:50 IST" duration-ms="7403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test1234, cvv=123, countryName=British Indian Ocean Territory, cardHolderName=Test Card, email=testRestAssured@yopmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_that_user_is_able_to_place_order_with_new_created_product -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:hybridTest.HybridEComTest@bcec031]" started-at="2022-09-09T22:09:50 IST" name="tearDown" finished-at="2022-09-09T22:09:50 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- hybridTest.HybridEComTest -->
+    </test> <!-- BlazeDemoWebSiteTest -->
+  </suite> <!-- Suite -->
+</testng-results>
